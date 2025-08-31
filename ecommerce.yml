@@ -1,7 +1,7 @@
 # 공통 토큰 정보
 token:
   expiration_time: 8640000
-  secret: sh_token
+  secret: hsh_token
 
 # 나중에 추가될 게이트웨이 아이피
 gateway:
