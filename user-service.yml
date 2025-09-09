@@ -8,4 +8,4 @@ spring:
 order-service:
   url: http://order-service/order-service/%s/orders
   exception:
-    orders_is_empty: User's orders is empty
+    order_is_empty: User's orders is empty
